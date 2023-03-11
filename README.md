@@ -1,12 +1,11 @@
 I've contributed to dozens of enterprise Node.js services and have worked for a company dedicated to securing Node.js. I've spoken at several conferences on Node.js and JavaScript, am an O'Reilly published author, and am [JSNSD](https://www.youracclaim.com/badges/5fdcc7f4-517f-4933-8075-8018c0dbb745)/[JSNAD](https://www.youracclaim.com/badges/c0538cd3-f7f5-4b67-8448-495ec7141d50) certified.
 
-I'm the CEO of [Map Buddy](https://mapbuddy.app/), a mobile app for discovering, subscribing to, and creating custom maps.
-
 ## Links
 
 - [My personal blog](https://thomashunter.name)
 - [Talks / presentations I've given](https://thomashunter.name/talks)
 - [NodeSchool SF](https://nodeschool.io/sanfrancisco/), which I help organize
+- [Map Buddy](https://mapbuddy.app) - a mobile web app side project of mine for creating geolocation based messages
 
 ## Books I've Published
 
