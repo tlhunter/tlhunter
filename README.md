@@ -4,7 +4,7 @@ I've contributed to dozens of enterprise Node.js services and have worked for a 
 
 - [My personal blog](https://thomashunter.name)
 - [Talks / presentations I've given](https://thomashunter.name/talks)
-- [My Mastodon account]([https://mastodon.social/@tlhunter) where I make frequent small posts
+- [My Mastodon account](https://mastodon.social/@tlhunter) where I make frequent small posts
 - [Map Buddy](https://mapbuddy.app) - a mobile web app side project of mine for creating geolocation based messages
 
 ## Books I've Published
